@@ -1,0 +1,17 @@
+﻿Metric,Value
+Iteration,Iteration 01
+Combat_Engine,analysis/combat_engine.py
+Runs,5
+Units_Per_Run,12
+Matchups_Per_Run,66
+Logical_Outputs_Identical,Yes
+Unique_Run_Signatures,1
+Unstable_Matchups,0
+Unstable_Units,0
+Canonical_Matchup_Mismatches,0
+Canonical_Unit_Mismatches,0
+Source_File_Unchanged,Yes
+Source_SHA256_Before,83a937076d861ffe9f5721e9eac6c2a3cd4a08d120d569b8c041cf4722098499
+Source_SHA256_After,83a937076d861ffe9f5721e9eac6c2a3cd4a08d120d569b8c041cf4722098499
+Reproducibility_Status,Reproducible
+Interpretation,Repeated runs of the canonical combat engine produced identical logical results and matched the canonical BEFORE.

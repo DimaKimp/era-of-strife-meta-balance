@@ -1,0 +1,13 @@
+﻿Unit_ID,Unit_Name,Faction,Role,Iteration_Target,Change_Type,Before_Damage,After_Damage,Damage_Change,Damage_Change_Percent,Before_DPS,After_DPS,DPS_Change,DPS_Change_Percent
+UND_01,Skeleton Swordsman,Undead,Infantry,No,Indirect / Unchanged,81.0,81.0,0.0,0.0,90.0,90.0,0.0,0.0
+UND_02,Bone Dragon,Undead,Tank,No,Indirect / Unchanged,96.0,96.0,0.0,0.0,60.0,60.0,0.0,0.0
+UND_03,Spear Devil,Undead,Ranged,No,Indirect / Unchanged,132.0,132.0,0.0,0.0,110.0,110.0,0.0,0.0
+UND_04,Witch,Undead,Support,No,Indirect / Unchanged,98.0,98.0,0.0,0.0,70.0,70.0,0.0,0.0
+ELF_01,Elven Swordsman,Forest & Dark Elves,Infantry,No,Indirect / Unchanged,80.0,80.0,0.0,0.0,100.0,100.0,0.0,0.0
+ELF_02,Great Forest Bear,Forest & Dark Elves,Tank,No,Indirect / Unchanged,96.0,96.0,0.0,0.0,60.0,60.0,0.0,0.0
+ELF_03,Elven Mage,Forest & Dark Elves,Ranged,No,Indirect / Unchanged,132.0,132.0,0.0,0.0,110.0,110.0,0.0,0.0
+ELF_04,Elven Scholar,Forest & Dark Elves,Support,No,Indirect / Unchanged,98.0,98.0,0.0,0.0,70.0,70.0,0.0,0.0
+HOR_01,Blade Goblin,Horde,Infantry,Buff Candidate,Direct,71.25,74.81,3.56,5.0,75.0,78.7474,3.7474,5.0
+HOR_02,Stone Ogre,Horde,Tank,Nerf Candidate,Direct,96.0,91.2,-4.8,-5.0,60.0,57.0,-3.0,-5.0
+HOR_03,Orc Thrower,Horde,Ranged,No,Indirect / Unchanged,132.0,132.0,0.0,0.0,110.0,110.0,0.0,0.0
+HOR_04,Boneclub Troll,Horde,Support,No,Indirect / Unchanged,98.0,98.0,0.0,0.0,70.0,70.0,0.0,0.0

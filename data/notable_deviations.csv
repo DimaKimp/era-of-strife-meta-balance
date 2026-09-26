@@ -1,0 +1,17 @@
+Unit_ID,Unit_Name,Faction,Role,Metric,Value,Deviation_pct
+HOR_04,Boneclub Troll,Horde,Support,Attack_Range,1.0,-72.72727272727273
+UND_04,Witch,Undead,Support,Attack_Range,5.0,36.363636363636374
+ELF_04,Elven Scholar,Forest & Dark Elves,Support,Attack_Range,5.0,36.363636363636374
+HOR_04,Boneclub Troll,Horde,Support,Move_Speed,2.6,25.806451612903224
+HOR_02,Stone Ogre,Horde,Tank,Move_Speed,1.0,-25.0
+UND_04,Witch,Undead,Support,Move_Speed,1.6,-22.580645161290324
+ELF_02,Great Forest Bear,Forest & Dark Elves,Tank,Move_Speed,1.6,20.000000000000018
+HOR_03,Orc Thrower,Horde,Ranged,Attack_Range,4.0,-17.24137931034482
+ELF_03,Elven Mage,Forest & Dark Elves,Ranged,Move_Speed,1.6,-15.789473684210531
+UND_03,Spear Devil,Undead,Ranged,Move_Speed,2.2,15.789473684210531
+HOR_01,Blade Goblin,Horde,Infantry,DPS,75.0,-15.094339622641506
+ELF_03,Elven Mage,Forest & Dark Elves,Ranged,Attack_Range,5.5,13.793103448275868
+HOR_01,Blade Goblin,Horde,Infantry,DPS_per_Cost,0.8333333333,-13.559322024052856
+ELF_01,Elven Swordsman,Forest & Dark Elves,Infantry,DPS,100.0,13.207547169811317
+UND_02,Bone Dragon,Undead,Tank,HP_per_Cost,10.28571429,-10.107563570194245
+HOR_02,Stone Ogre,Horde,Tank,HP,1760.0,10.000000000000009

@@ -1,0 +1,9 @@
+Test_ID,Risk_ID,Version,Unit_ID,Metric,Old_Value,New_Value,Change_Percent,Result,Conclusion,,Reference_Metric,Value
+TEST_001,RISK_015,v0.2,UND_01,HP_per_Cost,"10,66666667","9,411764706","-11,76%",Improved,Cost increase reduced Skeleton base HP efficiency by approximately 11.8%,,Skeleton_v0.1_Effective_HP_per_Cost,"14,4"
+TEST_002,RISK_015,v0.2,UND_01,Effective_HP_per_Cost,"14,4","12,70588235","-11,76%",Improved,Cost increase reduced theoretical Reassemble-adjusted HP efficiency while preserving the unit mechanic,,Skeleton_v0.2_Effective_HP_per_Cost,"12,70588235"
+TEST_003,RISK_016,v0.2,HOR_01,Blood_Rush_DPS,"97,5","112,5","15,38%",Improved,Blood Rush DPS increased by approximately 15.4%,,Elven_Swordsman_HP_per_Cost,"9,5"
+TEST_004,RISK_016,v0.2,HOR_01,Blood_Rush_Damage_4s,390,450,"15,38%",Improved,Theoretical damage during the 4-second Blood Rush window increased from 390 to 450,,Goblin_Base_DPS,75
+TEST_005,—,v0.2,ALL_INFANTRY,Role_Benchmark,,,,Passed,All Infantry remain within ±20% role efficiency threshold,,Goblin_v0.1_Blood_Rush_DPS,"97,5"
+TEST_006,—,v0.2,ALL_TANK,Role_Benchmark,,,,Passed,All Tanks remain within ±20% role efficiency threshold,,Goblin_v0.2_Blood_Rush_DPS,"112,5"
+TEST_007,—,v0.2,ALL_RANGED,Role_Benchmark,,,,Passed,All Ranged units remain within ±20% role efficiency threshold,,,
+TEST_008,—,v0.2,ALL_SUPPORT,Role_Benchmark,,,,Passed,All Supports remain within ±20% role efficiency threshold,,,

@@ -1,0 +1,13 @@
+Unit_ID,Unit_Name,Faction,Role,Attack_Type,HP,Damage,Attack_Interval,DPS,Attack_Range,Move_Speed,Cost,HP_per_Cost,DPS_per_Cost
+UND_01,Skeleton Swordsman,Undead,Infantry,Melee,800,81,"0,9",90,1,2,85,"9,411764706","1,058823529"
+UND_02,Bone Dragon,Undead,Tank,Melee,1440,96,"1,6",60,1,"1,4",140,"10,28571429","0,4285714286"
+UND_03,Spear Devil,Undead,Ranged,Ranged,800,132,"1,2",110,5,"2,2",95,"8,421052632","1,157894737"
+UND_04,Witch,Undead,Support,Ranged,700,98,"1,4",70,5,"1,6",110,"6,363636364","0,6363636364"
+ELF_01,Elven Swordsman,Forest & Dark Elves,Infantry,Melee,950,80,"0,8",100,1,"2,2",100,"9,5",1
+ELF_02,Great Forest Bear,Forest & Dark Elves,Tank,Melee,1600,96,"1,6",60,1,"1,6",130,"12,30769231","0,4615384615"
+ELF_03,Elven Mage,Forest & Dark Elves,Ranged,Ranged,800,132,"1,2",110,"5,5","1,6",110,"7,272727273",1
+ELF_04,Elven Scholar,Forest & Dark Elves,Support,Ranged,700,98,"1,4",70,5,2,120,"5,833333333","0,5833333333"
+HOR_01,Blade Goblin,Horde,Infantry,Melee,900,"71,25","0,95",75,1,"2,4",90,10,"0,8333333333"
+HOR_02,Stone Ogre,Horde,Tank,Melee,1760,96,"1,6",60,1,1,150,"11,73333333","0,4"
+HOR_03,Orc Thrower,Horde,Ranged,Ranged,800,132,"1,2",110,4,"1,9",100,8,"1,1"
+HOR_04,Boneclub Troll,Horde,Support,Melee,700,98,"1,4",70,1,"2,6",100,7,"0,7"

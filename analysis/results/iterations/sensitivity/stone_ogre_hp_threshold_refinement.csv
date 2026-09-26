@@ -1,0 +1,2 @@
+﻿Transition_ID,Tested_Unit_ID,Tested_Unit_Name,Opponent_ID,Opponent_Name,Lower_HP,Lower_Result,Upper_HP,Upper_Result,Interval_Size,HP_Step,Missing_HP_Count,Missing_HP_Values,Threshold_Status,Interpretation
+1,HOR_02,Stone Ogre,ELF_01,Elven Swordsman,1675,Loss,1700,Draw,25,1,24,1676; 1677; 1678; 1679; 1680; 1681; 1682; 1683; 1684; 1685; 1686; 1687; 1688; 1689; 1690; 1691; 1692; 1693; 1694; 1695; 1696; 1697; 1698; 1699,Requires additional simulation,Breakpoint is inside 1675-1700 HP: Loss -> Draw.

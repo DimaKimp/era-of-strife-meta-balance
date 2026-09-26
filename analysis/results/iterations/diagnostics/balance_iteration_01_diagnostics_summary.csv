@@ -1,0 +1,24 @@
+﻿Metric,Value
+Iteration,Iteration 01
+Expected_Direct_Target_Count,2
+Expected_Direct_Targets,HOR_01; HOR_02
+Detected_Direct_Target_Count,2
+Detected_Direct_Targets,HOR_01; HOR_02
+Missing_Expected_Direct_Targets,None
+Unexpected_Direct_Targets,None
+Impact_Summary_Direct_Target_Units,2
+Impact_Summary_Direct_Parameter_Changes,2
+Changed_Matchups,0
+Expected_Directly_Related_Changed_Matchups,0
+Expected_Indirect_Changed_Matchups,0
+Detected_Directly_Related_Changed_Matchups,0
+Detected_Indirect_Changed_Matchups,0
+Impact_Summary_Direct_Changed_Matchups,2
+Impact_Summary_Indirect_Changed_Matchups,1
+Classification_Mismatches,0
+Direct_Target_Detection_OK,Yes
+Impact_Summary_Direct_Target_OK,Yes
+Matchup_Classification_OK,Yes
+Probable_Root_Cause,No single root cause detected automatically; manual inspection is required.
+Diagnostic_Status,PASS
+Recommended_Action,No classification error detected. Impact analysis can be reviewed normally.

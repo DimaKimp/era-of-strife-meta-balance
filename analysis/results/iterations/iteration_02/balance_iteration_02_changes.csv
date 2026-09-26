@@ -1,0 +1,2 @@
+﻿Iteration,Unit_ID,Unit_Name,Parameter,Before,After,Absolute_Change,Percent_Change,HP,DPS_Before,DPS_After,Hypothesis
+Iteration 02,HOR_02,Stone Ogre,Damage,91.2,86.64,-4.56,-5.0,1760.0,57.0,54.15,Reduce Stone Ogre offensive power while preserving its tank durability.

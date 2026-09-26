@@ -1,0 +1,67 @@
+﻿Unit_1_ID,Unit_2_ID,Canonical_Result,Run_1_Result,Run_2_Result,Run_3_Result,Run_4_Result,Run_5_Result,Stable_Across_Runs,Matches_Canonical_BEFORE
+ELF_01,ELF_02,Draw,Draw,Draw,Draw,Draw,Draw,Yes,Yes
+ELF_01,ELF_03,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Yes,Yes
+ELF_01,ELF_04,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Yes,Yes
+ELF_01,HOR_01,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Yes,Yes
+ELF_01,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Yes,Yes
+ELF_01,HOR_03,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Yes,Yes
+ELF_01,HOR_04,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Yes,Yes
+ELF_01,UND_01,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Yes,Yes
+ELF_01,UND_02,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Yes,Yes
+ELF_01,UND_03,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Yes,Yes
+ELF_01,UND_04,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Elven Swordsman,Yes,Yes
+ELF_02,ELF_03,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Yes,Yes
+ELF_02,ELF_04,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Yes,Yes
+ELF_02,HOR_01,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Yes,Yes
+ELF_02,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Yes,Yes
+ELF_02,HOR_03,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Yes,Yes
+ELF_02,HOR_04,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Yes,Yes
+ELF_02,UND_01,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Yes,Yes
+ELF_02,UND_02,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Yes,Yes
+ELF_02,UND_03,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Yes,Yes
+ELF_02,UND_04,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Great Forest Bear,Yes,Yes
+ELF_03,ELF_04,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Yes,Yes
+ELF_03,HOR_01,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Yes,Yes
+ELF_03,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Yes,Yes
+ELF_03,HOR_03,Draw,Draw,Draw,Draw,Draw,Draw,Yes,Yes
+ELF_03,HOR_04,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Yes,Yes
+ELF_03,UND_01,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Yes,Yes
+ELF_03,UND_02,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Yes,Yes
+ELF_03,UND_03,Draw,Draw,Draw,Draw,Draw,Draw,Yes,Yes
+ELF_03,UND_04,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Elven Mage,Yes,Yes
+ELF_04,HOR_01,Blade Goblin,Blade Goblin,Blade Goblin,Blade Goblin,Blade Goblin,Blade Goblin,Yes,Yes
+ELF_04,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Yes,Yes
+ELF_04,HOR_03,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Yes,Yes
+ELF_04,HOR_04,Draw,Draw,Draw,Draw,Draw,Draw,Yes,Yes
+ELF_04,UND_01,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Yes,Yes
+ELF_04,UND_02,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Yes,Yes
+ELF_04,UND_03,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Yes,Yes
+ELF_04,UND_04,Draw,Draw,Draw,Draw,Draw,Draw,Yes,Yes
+HOR_01,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Yes,Yes
+HOR_01,HOR_03,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Yes,Yes
+HOR_01,HOR_04,Blade Goblin,Blade Goblin,Blade Goblin,Blade Goblin,Blade Goblin,Blade Goblin,Yes,Yes
+HOR_01,UND_01,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Yes,Yes
+HOR_01,UND_02,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Yes,Yes
+HOR_01,UND_03,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Yes,Yes
+HOR_01,UND_04,Blade Goblin,Blade Goblin,Blade Goblin,Blade Goblin,Blade Goblin,Blade Goblin,Yes,Yes
+HOR_02,HOR_03,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Yes,Yes
+HOR_02,HOR_04,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Yes,Yes
+HOR_02,UND_01,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Yes,Yes
+HOR_02,UND_02,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Yes,Yes
+HOR_02,UND_03,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Yes,Yes
+HOR_02,UND_04,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Stone Ogre,Yes,Yes
+HOR_03,HOR_04,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Yes,Yes
+HOR_03,UND_01,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Yes,Yes
+HOR_03,UND_02,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Yes,Yes
+HOR_03,UND_03,Draw,Draw,Draw,Draw,Draw,Draw,Yes,Yes
+HOR_03,UND_04,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Orc Thrower,Yes,Yes
+HOR_04,UND_01,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Yes,Yes
+HOR_04,UND_02,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Yes,Yes
+HOR_04,UND_03,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Yes,Yes
+HOR_04,UND_04,Draw,Draw,Draw,Draw,Draw,Draw,Yes,Yes
+UND_01,UND_02,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Yes,Yes
+UND_01,UND_03,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Yes,Yes
+UND_01,UND_04,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Skeleton Swordsman,Yes,Yes
+UND_02,UND_03,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Yes,Yes
+UND_02,UND_04,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Bone Dragon,Yes,Yes
+UND_03,UND_04,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Spear Devil,Yes,Yes

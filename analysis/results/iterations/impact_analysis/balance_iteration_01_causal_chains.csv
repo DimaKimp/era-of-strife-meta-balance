@@ -1,0 +1,4 @@
+﻿Chain_ID,Unit_ID,Unit_Name,Iteration_Target,Changed_Parameter,Old_Value,New_Value,Parameter_Direction,Before_DPS,After_DPS,DPS_Direction,Direct_Changed_Matchups,Changed_Matchups,Causal_Chain
+CHAIN_001,HOR_01,Blade Goblin,Buff Candidate,Damage,71.25,74.81,Increased,75.0,78.75,Increased,1,UND_01 vs HOR_01: Skeleton Swordsman -> Blade Goblin,Damage 71.25 -> 74.81 -> DPS 75.00 -> 78.75 -> 1 direct matchup change(s)
+CHAIN_002,HOR_02,Stone Ogre,Nerf Candidate,Damage,96.0,91.2,Decreased,60.0,57.0,Decreased,1,ELF_01 vs HOR_02: Stone Ogre -> Draw,Damage 96.00 -> 91.20 -> DPS 60.00 -> 57.00 -> 1 direct matchup change(s)
+CHAIN_003,ELF_01;ELF_02,Elven Swordsman vs Great Forest Bear,Indirect Effect,None Directly,,,No Direct Change,,,No Direct Change,0,Great Forest Bear -> Draw,No direct parameter change -> matchup result changed -> investigate simulation dependency / side effect

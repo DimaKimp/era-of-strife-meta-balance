@@ -1,0 +1,67 @@
+﻿Unit_A_ID,Unit_A_Name,Unit_A_Role,Unit_B_ID,Unit_B_Name,Unit_B_Role,Result,Winner_ID,Winner,Loser_ID,Loser,Combat_Time,Unit_A_Remaining_HP,Unit_B_Remaining_HP,Unit_A_Attacks,Unit_B_Attacks,Unit_A_Damage_Dealt,Unit_B_Damage_Dealt
+UND_01,Skeleton Swordsman,Infantry,UND_02,Bone Dragon,Tank,Win,UND_02,Bone Dragon,UND_01,Skeleton Swordsman,14.4,0.0,144.0,16,9,1296.0,864.0
+UND_01,Skeleton Swordsman,Infantry,UND_03,Spear Devil,Ranged,Win,UND_03,Spear Devil,UND_01,Skeleton Swordsman,8.4,0.0,71.0,9,7,729.0,924.0
+UND_01,Skeleton Swordsman,Infantry,UND_04,Witch,Support,Win,UND_01,Skeleton Swordsman,UND_04,Witch,8.1,310.0,0.0,9,5,729.0,490.0
+UND_01,Skeleton Swordsman,Infantry,ELF_01,Elven Swordsman,Infantry,Win,ELF_01,Elven Swordsman,UND_01,Skeleton Swordsman,8.0,0.0,302.0,8,10,648.0,800.0
+UND_01,Skeleton Swordsman,Infantry,ELF_02,Great Forest Bear,Tank,Win,ELF_02,Great Forest Bear,UND_01,Skeleton Swordsman,14.4,0.0,304.0,16,9,1296.0,864.0
+UND_01,Skeleton Swordsman,Infantry,ELF_03,Elven Mage,Ranged,Win,ELF_03,Elven Mage,UND_01,Skeleton Swordsman,8.4,0.0,71.0,9,7,729.0,924.0
+UND_01,Skeleton Swordsman,Infantry,ELF_04,Elven Scholar,Support,Win,UND_01,Skeleton Swordsman,ELF_04,Elven Scholar,8.1,310.0,0.0,9,5,729.0,490.0
+UND_01,Skeleton Swordsman,Infantry,HOR_01,Blade Goblin,Infantry,Win,UND_01,Skeleton Swordsman,HOR_01,Blade Goblin,10.8,16.25,0.0,12,11,972.0,783.75
+UND_01,Skeleton Swordsman,Infantry,HOR_02,Stone Ogre,Tank,Win,HOR_02,Stone Ogre,UND_01,Skeleton Swordsman,14.4,0.0,464.0,16,9,1296.0,864.0
+UND_01,Skeleton Swordsman,Infantry,HOR_03,Orc Thrower,Ranged,Win,HOR_03,Orc Thrower,UND_01,Skeleton Swordsman,8.4,0.0,71.0,9,7,729.0,924.0
+UND_01,Skeleton Swordsman,Infantry,HOR_04,Boneclub Troll,Support,Win,UND_01,Skeleton Swordsman,HOR_04,Boneclub Troll,8.1,310.0,0.0,9,5,729.0,490.0
+UND_02,Bone Dragon,Tank,UND_03,Spear Devil,Ranged,Win,UND_03,Spear Devil,UND_02,Bone Dragon,13.2,0.0,32.0,8,11,768.0,1452.0
+UND_02,Bone Dragon,Tank,UND_04,Witch,Support,Win,UND_02,Bone Dragon,UND_04,Witch,12.8,558.0,0.0,8,9,768.0,882.0
+UND_02,Bone Dragon,Tank,ELF_01,Elven Swordsman,Infantry,Win,ELF_01,Elven Swordsman,UND_02,Bone Dragon,14.4,0.0,86.0,9,18,864.0,1440.0
+UND_02,Bone Dragon,Tank,ELF_02,Great Forest Bear,Tank,Win,ELF_02,Great Forest Bear,UND_02,Bone Dragon,24.0,0.0,160.0,15,15,1440.0,1440.0
+UND_02,Bone Dragon,Tank,ELF_03,Elven Mage,Ranged,Win,ELF_03,Elven Mage,UND_02,Bone Dragon,13.2,0.0,32.0,8,11,768.0,1452.0
+UND_02,Bone Dragon,Tank,ELF_04,Elven Scholar,Support,Win,UND_02,Bone Dragon,ELF_04,Elven Scholar,12.8,558.0,0.0,8,9,768.0,882.0
+UND_02,Bone Dragon,Tank,HOR_01,Blade Goblin,Infantry,Win,UND_02,Bone Dragon,HOR_01,Blade Goblin,16.0,300.0,0.0,10,16,960.0,1140.0
+UND_02,Bone Dragon,Tank,HOR_02,Stone Ogre,Tank,Win,HOR_02,Stone Ogre,UND_02,Bone Dragon,24.0,0.0,320.0,15,15,1440.0,1440.0
+UND_02,Bone Dragon,Tank,HOR_03,Orc Thrower,Ranged,Win,HOR_03,Orc Thrower,UND_02,Bone Dragon,13.2,0.0,32.0,8,11,768.0,1452.0
+UND_02,Bone Dragon,Tank,HOR_04,Boneclub Troll,Support,Win,UND_02,Bone Dragon,HOR_04,Boneclub Troll,12.8,558.0,0.0,8,9,768.0,882.0
+UND_03,Spear Devil,Ranged,UND_04,Witch,Support,Win,UND_03,Spear Devil,UND_04,Witch,7.2,310.0,0.0,6,5,792.0,490.0
+UND_03,Spear Devil,Ranged,ELF_01,Elven Swordsman,Infantry,Win,ELF_01,Elven Swordsman,UND_03,Spear Devil,8.0,0.0,158.0,6,10,792.0,800.0
+UND_03,Spear Devil,Ranged,ELF_02,Great Forest Bear,Tank,Win,ELF_02,Great Forest Bear,UND_03,Spear Devil,14.4,0.0,16.0,12,9,1584.0,864.0
+UND_03,Spear Devil,Ranged,ELF_03,Elven Mage,Ranged,Draw,,,,,8.4,0.0,0.0,7,7,924.0,924.0
+UND_03,Spear Devil,Ranged,ELF_04,Elven Scholar,Support,Win,UND_03,Spear Devil,ELF_04,Elven Scholar,7.2,310.0,0.0,6,5,792.0,490.0
+UND_03,Spear Devil,Ranged,HOR_01,Blade Goblin,Infantry,Win,UND_03,Spear Devil,HOR_01,Blade Goblin,8.4,230.0,0.0,7,8,924.0,570.0
+UND_03,Spear Devil,Ranged,HOR_02,Stone Ogre,Tank,Win,HOR_02,Stone Ogre,UND_03,Spear Devil,14.4,0.0,176.0,12,9,1584.0,864.0
+UND_03,Spear Devil,Ranged,HOR_03,Orc Thrower,Ranged,Draw,,,,,8.4,0.0,0.0,7,7,924.0,924.0
+UND_03,Spear Devil,Ranged,HOR_04,Boneclub Troll,Support,Win,UND_03,Spear Devil,HOR_04,Boneclub Troll,7.2,310.0,0.0,6,5,792.0,490.0
+UND_04,Witch,Support,ELF_01,Elven Swordsman,Infantry,Win,ELF_01,Elven Swordsman,UND_04,Witch,7.2,0.0,460.0,5,9,490.0,720.0
+UND_04,Witch,Support,ELF_02,Great Forest Bear,Tank,Win,ELF_02,Great Forest Bear,UND_04,Witch,12.8,0.0,718.0,9,8,882.0,768.0
+UND_04,Witch,Support,ELF_03,Elven Mage,Ranged,Win,ELF_03,Elven Mage,UND_04,Witch,7.2,0.0,310.0,5,6,490.0,792.0
+UND_04,Witch,Support,ELF_04,Elven Scholar,Support,Draw,,,,,11.2,0.0,0.0,8,8,784.0,784.0
+UND_04,Witch,Support,HOR_01,Blade Goblin,Infantry,Win,HOR_01,Blade Goblin,UND_04,Witch,9.5,0.0,312.0,6,10,588.0,712.5
+UND_04,Witch,Support,HOR_02,Stone Ogre,Tank,Win,HOR_02,Stone Ogre,UND_04,Witch,12.8,0.0,878.0,9,8,882.0,768.0
+UND_04,Witch,Support,HOR_03,Orc Thrower,Ranged,Win,HOR_03,Orc Thrower,UND_04,Witch,7.2,0.0,310.0,5,6,490.0,792.0
+UND_04,Witch,Support,HOR_04,Boneclub Troll,Support,Draw,,,,,11.2,0.0,0.0,8,8,784.0,784.0
+ELF_01,Elven Swordsman,Infantry,ELF_02,Great Forest Bear,Tank,Draw,,,,,16.0,0.0,0.0,20,10,1600.0,960.0
+ELF_01,Elven Swordsman,Infantry,ELF_03,Elven Mage,Ranged,Win,ELF_01,Elven Swordsman,ELF_03,Elven Mage,8.0,158.0,0.0,10,6,800.0,792.0
+ELF_01,Elven Swordsman,Infantry,ELF_04,Elven Scholar,Support,Win,ELF_01,Elven Swordsman,ELF_04,Elven Scholar,7.2,460.0,0.0,9,5,720.0,490.0
+ELF_01,Elven Swordsman,Infantry,HOR_01,Blade Goblin,Infantry,Win,ELF_01,Elven Swordsman,HOR_01,Blade Goblin,9.6,237.5,0.0,12,10,960.0,712.5
+ELF_01,Elven Swordsman,Infantry,HOR_02,Stone Ogre,Tank,Win,HOR_02,Stone Ogre,ELF_01,Elven Swordsman,16.0,0.0,160.0,20,10,1600.0,960.0
+ELF_01,Elven Swordsman,Infantry,HOR_03,Orc Thrower,Ranged,Win,ELF_01,Elven Swordsman,HOR_03,Orc Thrower,8.0,158.0,0.0,10,6,800.0,792.0
+ELF_01,Elven Swordsman,Infantry,HOR_04,Boneclub Troll,Support,Win,ELF_01,Elven Swordsman,HOR_04,Boneclub Troll,7.2,460.0,0.0,9,5,720.0,490.0
+ELF_02,Great Forest Bear,Tank,ELF_03,Elven Mage,Ranged,Win,ELF_02,Great Forest Bear,ELF_03,Elven Mage,14.4,16.0,0.0,9,12,864.0,1584.0
+ELF_02,Great Forest Bear,Tank,ELF_04,Elven Scholar,Support,Win,ELF_02,Great Forest Bear,ELF_04,Elven Scholar,12.8,718.0,0.0,8,9,768.0,882.0
+ELF_02,Great Forest Bear,Tank,HOR_01,Blade Goblin,Infantry,Win,ELF_02,Great Forest Bear,HOR_01,Blade Goblin,16.0,460.0,0.0,10,16,960.0,1140.0
+ELF_02,Great Forest Bear,Tank,HOR_02,Stone Ogre,Tank,Win,HOR_02,Stone Ogre,ELF_02,Great Forest Bear,27.2,0.0,128.0,17,17,1632.0,1632.0
+ELF_02,Great Forest Bear,Tank,HOR_03,Orc Thrower,Ranged,Win,ELF_02,Great Forest Bear,HOR_03,Orc Thrower,14.4,16.0,0.0,9,12,864.0,1584.0
+ELF_02,Great Forest Bear,Tank,HOR_04,Boneclub Troll,Support,Win,ELF_02,Great Forest Bear,HOR_04,Boneclub Troll,12.8,718.0,0.0,8,9,768.0,882.0
+ELF_03,Elven Mage,Ranged,ELF_04,Elven Scholar,Support,Win,ELF_03,Elven Mage,ELF_04,Elven Scholar,7.2,310.0,0.0,6,5,792.0,490.0
+ELF_03,Elven Mage,Ranged,HOR_01,Blade Goblin,Infantry,Win,ELF_03,Elven Mage,HOR_01,Blade Goblin,8.4,230.0,0.0,7,8,924.0,570.0
+ELF_03,Elven Mage,Ranged,HOR_02,Stone Ogre,Tank,Win,HOR_02,Stone Ogre,ELF_03,Elven Mage,14.4,0.0,176.0,12,9,1584.0,864.0
+ELF_03,Elven Mage,Ranged,HOR_03,Orc Thrower,Ranged,Draw,,,,,8.4,0.0,0.0,7,7,924.0,924.0
+ELF_03,Elven Mage,Ranged,HOR_04,Boneclub Troll,Support,Win,ELF_03,Elven Mage,HOR_04,Boneclub Troll,7.2,310.0,0.0,6,5,792.0,490.0
+ELF_04,Elven Scholar,Support,HOR_01,Blade Goblin,Infantry,Win,HOR_01,Blade Goblin,ELF_04,Elven Scholar,9.5,0.0,312.0,6,10,588.0,712.5
+ELF_04,Elven Scholar,Support,HOR_02,Stone Ogre,Tank,Win,HOR_02,Stone Ogre,ELF_04,Elven Scholar,12.8,0.0,878.0,9,8,882.0,768.0
+ELF_04,Elven Scholar,Support,HOR_03,Orc Thrower,Ranged,Win,HOR_03,Orc Thrower,ELF_04,Elven Scholar,7.2,0.0,310.0,5,6,490.0,792.0
+ELF_04,Elven Scholar,Support,HOR_04,Boneclub Troll,Support,Draw,,,,,11.2,0.0,0.0,8,8,784.0,784.0
+HOR_01,Blade Goblin,Infantry,HOR_02,Stone Ogre,Tank,Win,HOR_02,Stone Ogre,HOR_01,Blade Goblin,16.0,0.0,620.0,16,10,1140.0,960.0
+HOR_01,Blade Goblin,Infantry,HOR_03,Orc Thrower,Ranged,Win,HOR_03,Orc Thrower,HOR_01,Blade Goblin,8.4,0.0,230.0,8,7,570.0,924.0
+HOR_01,Blade Goblin,Infantry,HOR_04,Boneclub Troll,Support,Win,HOR_01,Blade Goblin,HOR_04,Boneclub Troll,9.5,312.0,0.0,10,6,712.5,588.0
+HOR_02,Stone Ogre,Tank,HOR_03,Orc Thrower,Ranged,Win,HOR_02,Stone Ogre,HOR_03,Orc Thrower,14.4,176.0,0.0,9,12,864.0,1584.0
+HOR_02,Stone Ogre,Tank,HOR_04,Boneclub Troll,Support,Win,HOR_02,Stone Ogre,HOR_04,Boneclub Troll,12.8,878.0,0.0,8,9,768.0,882.0
+HOR_03,Orc Thrower,Ranged,HOR_04,Boneclub Troll,Support,Win,HOR_03,Orc Thrower,HOR_04,Boneclub Troll,7.2,310.0,0.0,6,5,792.0,490.0

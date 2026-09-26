@@ -1,0 +1,12 @@
+﻿Opponent_ID,Opponent_Name,Control_Result,First_Changed_HP,Changed_Result,Last_Unchanged_HP,Threshold_Interval,Threshold_Found,Interpretation
+UND_01,Skeleton Swordsman,Win,,,1600,Below 1600 or not found,No,No result change was detected inside the tested HP range.
+UND_02,Bone Dragon,Win,,,1600,Below 1600 or not found,No,No result change was detected inside the tested HP range.
+UND_03,Spear Devil,Win,,,1600,Below 1600 or not found,No,No result change was detected inside the tested HP range.
+UND_04,Witch,Win,,,1600,Below 1600 or not found,No,No result change was detected inside the tested HP range.
+ELF_01,Elven Swordsman,Draw,1675,Loss,1700,1675–1700,Yes,The matchup result changed inside the tested Stone Ogre HP range.
+ELF_02,Great Forest Bear,Win,1725,Draw,1750,1725–1750,Yes,The matchup result changed inside the tested Stone Ogre HP range.
+ELF_03,Elven Mage,Win,,,1600,Below 1600 or not found,No,No result change was detected inside the tested HP range.
+ELF_04,Elven Scholar,Win,,,1600,Below 1600 or not found,No,No result change was detected inside the tested HP range.
+HOR_01,Blade Goblin,Win,,,1600,Below 1600 or not found,No,No result change was detected inside the tested HP range.
+HOR_03,Orc Thrower,Win,,,1600,Below 1600 or not found,No,No result change was detected inside the tested HP range.
+HOR_04,Boneclub Troll,Win,,,1600,Below 1600 or not found,No,No result change was detected inside the tested HP range.

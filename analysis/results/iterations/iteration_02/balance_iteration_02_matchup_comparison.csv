@@ -1,0 +1,67 @@
+﻿Unit_1_ID,Unit_1_Name,Unit_2_ID,Unit_2_Name,Contains_Direct_Target,Winner_Before,Winner_After,Result_Changed,Impact_Type,Combat_Time_Before,Combat_Time_After,Combat_Time_Delta
+ELF_01,Elven Swordsman,ELF_02,Great Forest Bear,No,Draw,Draw,No,Unchanged,16.0,16.0,0.0
+ELF_01,Elven Swordsman,ELF_03,Elven Mage,No,ELF_01,ELF_01,No,Unchanged,8.0,8.0,0.0
+ELF_01,Elven Swordsman,ELF_04,Elven Scholar,No,ELF_01,ELF_01,No,Unchanged,7.2,7.2,0.0
+ELF_01,Elven Swordsman,HOR_01,Blade Goblin,No,ELF_01,ELF_01,No,Unchanged,9.6,9.6,0.0
+ELF_01,Elven Swordsman,HOR_02,Stone Ogre,Yes,Draw,Draw,No,Unchanged,17.6,17.6,0.0
+ELF_01,Elven Swordsman,HOR_03,Orc Thrower,No,ELF_01,ELF_01,No,Unchanged,8.0,8.0,0.0
+ELF_01,Elven Swordsman,HOR_04,Boneclub Troll,No,ELF_01,ELF_01,No,Unchanged,7.2,7.2,0.0
+ELF_01,Elven Swordsman,UND_01,Skeleton Swordsman,No,ELF_01,ELF_01,No,Unchanged,8.0,8.0,0.0
+ELF_01,Elven Swordsman,UND_02,Bone Dragon,No,ELF_01,ELF_01,No,Unchanged,14.4,14.4,0.0
+ELF_01,Elven Swordsman,UND_03,Spear Devil,No,ELF_01,ELF_01,No,Unchanged,8.0,8.0,0.0
+ELF_01,Elven Swordsman,UND_04,Witch,No,ELF_01,ELF_01,No,Unchanged,7.2,7.2,0.0
+ELF_02,Great Forest Bear,ELF_03,Elven Mage,No,ELF_02,ELF_02,No,Unchanged,14.4,14.4,0.0
+ELF_02,Great Forest Bear,ELF_04,Elven Scholar,No,ELF_02,ELF_02,No,Unchanged,12.8,12.8,0.0
+ELF_02,Great Forest Bear,HOR_01,Blade Goblin,No,ELF_02,ELF_02,No,Unchanged,16.0,16.0,0.0
+ELF_02,Great Forest Bear,HOR_02,Stone Ogre,Yes,HOR_02,Draw,Yes,Direct,28.8,30.4,1.6
+ELF_02,Great Forest Bear,HOR_03,Orc Thrower,No,ELF_02,ELF_02,No,Unchanged,14.4,14.4,0.0
+ELF_02,Great Forest Bear,HOR_04,Boneclub Troll,No,ELF_02,ELF_02,No,Unchanged,12.8,12.8,0.0
+ELF_02,Great Forest Bear,UND_01,Skeleton Swordsman,No,ELF_02,ELF_02,No,Unchanged,14.4,14.4,0.0
+ELF_02,Great Forest Bear,UND_02,Bone Dragon,No,ELF_02,ELF_02,No,Unchanged,24.0,24.0,0.0
+ELF_02,Great Forest Bear,UND_03,Spear Devil,No,ELF_02,ELF_02,No,Unchanged,14.4,14.4,0.0
+ELF_02,Great Forest Bear,UND_04,Witch,No,ELF_02,ELF_02,No,Unchanged,12.8,12.8,0.0
+ELF_03,Elven Mage,ELF_04,Elven Scholar,No,ELF_03,ELF_03,No,Unchanged,7.2,7.2,0.0
+ELF_03,Elven Mage,HOR_01,Blade Goblin,No,ELF_03,ELF_03,No,Unchanged,8.4,8.4,0.0
+ELF_03,Elven Mage,HOR_02,Stone Ogre,Yes,HOR_02,HOR_02,No,Unchanged,14.4,16.0,1.6
+ELF_03,Elven Mage,HOR_03,Orc Thrower,No,Draw,Draw,No,Unchanged,8.4,8.4,0.0
+ELF_03,Elven Mage,HOR_04,Boneclub Troll,No,ELF_03,ELF_03,No,Unchanged,7.2,7.2,0.0
+ELF_03,Elven Mage,UND_01,Skeleton Swordsman,No,ELF_03,ELF_03,No,Unchanged,8.4,8.4,0.0
+ELF_03,Elven Mage,UND_02,Bone Dragon,No,ELF_03,ELF_03,No,Unchanged,13.2,13.2,0.0
+ELF_03,Elven Mage,UND_03,Spear Devil,No,Draw,Draw,No,Unchanged,8.4,8.4,0.0
+ELF_03,Elven Mage,UND_04,Witch,No,ELF_03,ELF_03,No,Unchanged,7.2,7.2,0.0
+ELF_04,Elven Scholar,HOR_01,Blade Goblin,No,HOR_01,HOR_01,No,Unchanged,9.5,9.5,0.0
+ELF_04,Elven Scholar,HOR_02,Stone Ogre,Yes,HOR_02,HOR_02,No,Unchanged,12.8,14.4,1.6
+ELF_04,Elven Scholar,HOR_03,Orc Thrower,No,HOR_03,HOR_03,No,Unchanged,7.2,7.2,0.0
+ELF_04,Elven Scholar,HOR_04,Boneclub Troll,No,Draw,Draw,No,Unchanged,11.2,11.2,0.0
+ELF_04,Elven Scholar,UND_01,Skeleton Swordsman,No,UND_01,UND_01,No,Unchanged,8.1,8.1,0.0
+ELF_04,Elven Scholar,UND_02,Bone Dragon,No,UND_02,UND_02,No,Unchanged,12.8,12.8,0.0
+ELF_04,Elven Scholar,UND_03,Spear Devil,No,UND_03,UND_03,No,Unchanged,7.2,7.2,0.0
+ELF_04,Elven Scholar,UND_04,Witch,No,Draw,Draw,No,Unchanged,11.2,11.2,0.0
+HOR_01,Blade Goblin,HOR_02,Stone Ogre,Yes,HOR_02,HOR_02,No,Unchanged,16.0,17.6,1.6
+HOR_01,Blade Goblin,HOR_03,Orc Thrower,No,HOR_03,HOR_03,No,Unchanged,8.4,8.4,0.0
+HOR_01,Blade Goblin,HOR_04,Boneclub Troll,No,HOR_01,HOR_01,No,Unchanged,9.5,9.5,0.0
+HOR_01,Blade Goblin,UND_01,Skeleton Swordsman,No,HOR_01,HOR_01,No,Unchanged,10.45,10.45,0.0
+HOR_01,Blade Goblin,UND_02,Bone Dragon,No,UND_02,UND_02,No,Unchanged,16.0,16.0,0.0
+HOR_01,Blade Goblin,UND_03,Spear Devil,No,UND_03,UND_03,No,Unchanged,8.4,8.4,0.0
+HOR_01,Blade Goblin,UND_04,Witch,No,HOR_01,HOR_01,No,Unchanged,9.5,9.5,0.0
+HOR_02,Stone Ogre,HOR_03,Orc Thrower,Yes,HOR_02,HOR_02,No,Unchanged,14.4,16.0,1.6
+HOR_02,Stone Ogre,HOR_04,Boneclub Troll,Yes,HOR_02,HOR_02,No,Unchanged,12.8,14.4,1.6
+HOR_02,Stone Ogre,UND_01,Skeleton Swordsman,Yes,HOR_02,HOR_02,No,Unchanged,14.4,16.0,1.6
+HOR_02,Stone Ogre,UND_02,Bone Dragon,Yes,HOR_02,HOR_02,No,Unchanged,25.6,27.2,1.6
+HOR_02,Stone Ogre,UND_03,Spear Devil,Yes,HOR_02,HOR_02,No,Unchanged,14.4,16.0,1.6
+HOR_02,Stone Ogre,UND_04,Witch,Yes,HOR_02,HOR_02,No,Unchanged,12.8,14.4,1.6
+HOR_03,Orc Thrower,HOR_04,Boneclub Troll,No,HOR_03,HOR_03,No,Unchanged,7.2,7.2,0.0
+HOR_03,Orc Thrower,UND_01,Skeleton Swordsman,No,HOR_03,HOR_03,No,Unchanged,8.4,8.4,0.0
+HOR_03,Orc Thrower,UND_02,Bone Dragon,No,HOR_03,HOR_03,No,Unchanged,13.2,13.2,0.0
+HOR_03,Orc Thrower,UND_03,Spear Devil,No,Draw,Draw,No,Unchanged,8.4,8.4,0.0
+HOR_03,Orc Thrower,UND_04,Witch,No,HOR_03,HOR_03,No,Unchanged,7.2,7.2,0.0
+HOR_04,Boneclub Troll,UND_01,Skeleton Swordsman,No,UND_01,UND_01,No,Unchanged,8.1,8.1,0.0
+HOR_04,Boneclub Troll,UND_02,Bone Dragon,No,UND_02,UND_02,No,Unchanged,12.8,12.8,0.0
+HOR_04,Boneclub Troll,UND_03,Spear Devil,No,UND_03,UND_03,No,Unchanged,7.2,7.2,0.0
+HOR_04,Boneclub Troll,UND_04,Witch,No,Draw,Draw,No,Unchanged,11.2,11.2,0.0
+UND_01,Skeleton Swordsman,UND_02,Bone Dragon,No,UND_02,UND_02,No,Unchanged,14.4,14.4,0.0
+UND_01,Skeleton Swordsman,UND_03,Spear Devil,No,UND_03,UND_03,No,Unchanged,8.4,8.4,0.0
+UND_01,Skeleton Swordsman,UND_04,Witch,No,UND_01,UND_01,No,Unchanged,8.1,8.1,0.0
+UND_02,Bone Dragon,UND_03,Spear Devil,No,UND_03,UND_03,No,Unchanged,13.2,13.2,0.0
+UND_02,Bone Dragon,UND_04,Witch,No,UND_02,UND_02,No,Unchanged,12.8,12.8,0.0
+UND_03,Spear Devil,UND_04,Witch,No,UND_03,UND_03,No,Unchanged,7.2,7.2,0.0

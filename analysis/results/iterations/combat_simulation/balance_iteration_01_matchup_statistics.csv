@@ -1,0 +1,67 @@
+﻿Unit_1_ID,Unit_1_Name,Unit_2_ID,Unit_2_Name,Result,Winner_ID,Winner,Combat_Time
+UND_01,Skeleton Swordsman,UND_02,Bone Dragon,Bone Dragon,UND_02,Bone Dragon,14.4
+UND_01,Skeleton Swordsman,UND_03,Spear Devil,Spear Devil,UND_03,Spear Devil,8.4
+UND_01,Skeleton Swordsman,UND_04,Witch,Skeleton Swordsman,UND_01,Skeleton Swordsman,8.1
+UND_01,Skeleton Swordsman,ELF_01,Elven Swordsman,Elven Swordsman,ELF_01,Elven Swordsman,8.0
+UND_01,Skeleton Swordsman,ELF_02,Great Forest Bear,Great Forest Bear,ELF_02,Great Forest Bear,14.4
+UND_01,Skeleton Swordsman,ELF_03,Elven Mage,Elven Mage,ELF_03,Elven Mage,8.4
+UND_01,Skeleton Swordsman,ELF_04,Elven Scholar,Skeleton Swordsman,UND_01,Skeleton Swordsman,8.1
+UND_01,Skeleton Swordsman,HOR_01,Blade Goblin,Blade Goblin,HOR_01,Blade Goblin,10.45
+UND_01,Skeleton Swordsman,HOR_02,Stone Ogre,Stone Ogre,HOR_02,Stone Ogre,14.4
+UND_01,Skeleton Swordsman,HOR_03,Orc Thrower,Orc Thrower,HOR_03,Orc Thrower,8.4
+UND_01,Skeleton Swordsman,HOR_04,Boneclub Troll,Skeleton Swordsman,UND_01,Skeleton Swordsman,8.1
+UND_02,Bone Dragon,UND_03,Spear Devil,Spear Devil,UND_03,Spear Devil,13.2
+UND_02,Bone Dragon,UND_04,Witch,Bone Dragon,UND_02,Bone Dragon,12.8
+UND_02,Bone Dragon,ELF_01,Elven Swordsman,Elven Swordsman,ELF_01,Elven Swordsman,14.4
+UND_02,Bone Dragon,ELF_02,Great Forest Bear,Great Forest Bear,ELF_02,Great Forest Bear,24.0
+UND_02,Bone Dragon,ELF_03,Elven Mage,Elven Mage,ELF_03,Elven Mage,13.2
+UND_02,Bone Dragon,ELF_04,Elven Scholar,Bone Dragon,UND_02,Bone Dragon,12.8
+UND_02,Bone Dragon,HOR_01,Blade Goblin,Bone Dragon,UND_02,Bone Dragon,16.0
+UND_02,Bone Dragon,HOR_02,Stone Ogre,Stone Ogre,HOR_02,Stone Ogre,25.6
+UND_02,Bone Dragon,HOR_03,Orc Thrower,Orc Thrower,HOR_03,Orc Thrower,13.2
+UND_02,Bone Dragon,HOR_04,Boneclub Troll,Bone Dragon,UND_02,Bone Dragon,12.8
+UND_03,Spear Devil,UND_04,Witch,Spear Devil,UND_03,Spear Devil,7.2
+UND_03,Spear Devil,ELF_01,Elven Swordsman,Elven Swordsman,ELF_01,Elven Swordsman,8.0
+UND_03,Spear Devil,ELF_02,Great Forest Bear,Great Forest Bear,ELF_02,Great Forest Bear,14.4
+UND_03,Spear Devil,ELF_03,Elven Mage,Draw,,,8.4
+UND_03,Spear Devil,ELF_04,Elven Scholar,Spear Devil,UND_03,Spear Devil,7.2
+UND_03,Spear Devil,HOR_01,Blade Goblin,Spear Devil,UND_03,Spear Devil,8.4
+UND_03,Spear Devil,HOR_02,Stone Ogre,Stone Ogre,HOR_02,Stone Ogre,14.4
+UND_03,Spear Devil,HOR_03,Orc Thrower,Draw,,,8.4
+UND_03,Spear Devil,HOR_04,Boneclub Troll,Spear Devil,UND_03,Spear Devil,7.2
+UND_04,Witch,ELF_01,Elven Swordsman,Elven Swordsman,ELF_01,Elven Swordsman,7.2
+UND_04,Witch,ELF_02,Great Forest Bear,Great Forest Bear,ELF_02,Great Forest Bear,12.8
+UND_04,Witch,ELF_03,Elven Mage,Elven Mage,ELF_03,Elven Mage,7.2
+UND_04,Witch,ELF_04,Elven Scholar,Draw,,,11.2
+UND_04,Witch,HOR_01,Blade Goblin,Blade Goblin,HOR_01,Blade Goblin,9.5
+UND_04,Witch,HOR_02,Stone Ogre,Stone Ogre,HOR_02,Stone Ogre,12.8
+UND_04,Witch,HOR_03,Orc Thrower,Orc Thrower,HOR_03,Orc Thrower,7.2
+UND_04,Witch,HOR_04,Boneclub Troll,Draw,,,11.2
+ELF_01,Elven Swordsman,ELF_02,Great Forest Bear,Draw,,,16.0
+ELF_01,Elven Swordsman,ELF_03,Elven Mage,Elven Swordsman,ELF_01,Elven Swordsman,8.0
+ELF_01,Elven Swordsman,ELF_04,Elven Scholar,Elven Swordsman,ELF_01,Elven Swordsman,7.2
+ELF_01,Elven Swordsman,HOR_01,Blade Goblin,Elven Swordsman,ELF_01,Elven Swordsman,9.6
+ELF_01,Elven Swordsman,HOR_02,Stone Ogre,Draw,,,17.6
+ELF_01,Elven Swordsman,HOR_03,Orc Thrower,Elven Swordsman,ELF_01,Elven Swordsman,8.0
+ELF_01,Elven Swordsman,HOR_04,Boneclub Troll,Elven Swordsman,ELF_01,Elven Swordsman,7.2
+ELF_02,Great Forest Bear,ELF_03,Elven Mage,Great Forest Bear,ELF_02,Great Forest Bear,14.4
+ELF_02,Great Forest Bear,ELF_04,Elven Scholar,Great Forest Bear,ELF_02,Great Forest Bear,12.8
+ELF_02,Great Forest Bear,HOR_01,Blade Goblin,Great Forest Bear,ELF_02,Great Forest Bear,16.0
+ELF_02,Great Forest Bear,HOR_02,Stone Ogre,Stone Ogre,HOR_02,Stone Ogre,28.8
+ELF_02,Great Forest Bear,HOR_03,Orc Thrower,Great Forest Bear,ELF_02,Great Forest Bear,14.4
+ELF_02,Great Forest Bear,HOR_04,Boneclub Troll,Great Forest Bear,ELF_02,Great Forest Bear,12.8
+ELF_03,Elven Mage,ELF_04,Elven Scholar,Elven Mage,ELF_03,Elven Mage,7.2
+ELF_03,Elven Mage,HOR_01,Blade Goblin,Elven Mage,ELF_03,Elven Mage,8.4
+ELF_03,Elven Mage,HOR_02,Stone Ogre,Stone Ogre,HOR_02,Stone Ogre,14.4
+ELF_03,Elven Mage,HOR_03,Orc Thrower,Draw,,,8.4
+ELF_03,Elven Mage,HOR_04,Boneclub Troll,Elven Mage,ELF_03,Elven Mage,7.2
+ELF_04,Elven Scholar,HOR_01,Blade Goblin,Blade Goblin,HOR_01,Blade Goblin,9.5
+ELF_04,Elven Scholar,HOR_02,Stone Ogre,Stone Ogre,HOR_02,Stone Ogre,12.8
+ELF_04,Elven Scholar,HOR_03,Orc Thrower,Orc Thrower,HOR_03,Orc Thrower,7.2
+ELF_04,Elven Scholar,HOR_04,Boneclub Troll,Draw,,,11.2
+HOR_01,Blade Goblin,HOR_02,Stone Ogre,Stone Ogre,HOR_02,Stone Ogre,16.0
+HOR_01,Blade Goblin,HOR_03,Orc Thrower,Orc Thrower,HOR_03,Orc Thrower,8.4
+HOR_01,Blade Goblin,HOR_04,Boneclub Troll,Blade Goblin,HOR_01,Blade Goblin,9.5
+HOR_02,Stone Ogre,HOR_03,Orc Thrower,Stone Ogre,HOR_02,Stone Ogre,14.4
+HOR_02,Stone Ogre,HOR_04,Boneclub Troll,Stone Ogre,HOR_02,Stone Ogre,12.8
+HOR_03,Orc Thrower,HOR_04,Boneclub Troll,Orc Thrower,HOR_03,Orc Thrower,7.2

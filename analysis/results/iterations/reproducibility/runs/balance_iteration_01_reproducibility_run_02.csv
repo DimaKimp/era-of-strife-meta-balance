@@ -1,0 +1,67 @@
+﻿Unit_A_ID,Unit_A_Name,Unit_B_ID,Unit_B_Name,Result,Winner,Winner_ID,Loser,Loser_ID,Combat_Time,Unit_A_Remaining_HP,Unit_B_Remaining_HP
+UND_01,Skeleton Swordsman,UND_02,Bone Dragon,Win,Bone Dragon,UND_02,Skeleton Swordsman,UND_01,14.4,0.0,144.0
+UND_01,Skeleton Swordsman,UND_03,Spear Devil,Win,Spear Devil,UND_03,Skeleton Swordsman,UND_01,8.4,0.0,71.0
+UND_01,Skeleton Swordsman,UND_04,Witch,Win,Skeleton Swordsman,UND_01,Witch,UND_04,8.1,310.0,0.0
+UND_01,Skeleton Swordsman,ELF_01,Elven Swordsman,Win,Elven Swordsman,ELF_01,Skeleton Swordsman,UND_01,8.0,0.0,302.0
+UND_01,Skeleton Swordsman,ELF_02,Great Forest Bear,Win,Great Forest Bear,ELF_02,Skeleton Swordsman,UND_01,14.4,0.0,304.0
+UND_01,Skeleton Swordsman,ELF_03,Elven Mage,Win,Elven Mage,ELF_03,Skeleton Swordsman,UND_01,8.4,0.0,71.0
+UND_01,Skeleton Swordsman,ELF_04,Elven Scholar,Win,Skeleton Swordsman,UND_01,Elven Scholar,ELF_04,8.1,310.0,0.0
+UND_01,Skeleton Swordsman,HOR_01,Blade Goblin,Win,Blade Goblin,HOR_01,Skeleton Swordsman,UND_01,10.45,0.0,9.0
+UND_01,Skeleton Swordsman,HOR_02,Stone Ogre,Win,Stone Ogre,HOR_02,Skeleton Swordsman,UND_01,14.4,0.0,464.0
+UND_01,Skeleton Swordsman,HOR_03,Orc Thrower,Win,Orc Thrower,HOR_03,Skeleton Swordsman,UND_01,8.4,0.0,71.0
+UND_01,Skeleton Swordsman,HOR_04,Boneclub Troll,Win,Skeleton Swordsman,UND_01,Boneclub Troll,HOR_04,8.1,310.0,0.0
+UND_02,Bone Dragon,UND_03,Spear Devil,Win,Spear Devil,UND_03,Bone Dragon,UND_02,13.2,0.0,32.0
+UND_02,Bone Dragon,UND_04,Witch,Win,Bone Dragon,UND_02,Witch,UND_04,12.8,558.0,0.0
+UND_02,Bone Dragon,ELF_01,Elven Swordsman,Win,Elven Swordsman,ELF_01,Bone Dragon,UND_02,14.4,0.0,86.0
+UND_02,Bone Dragon,ELF_02,Great Forest Bear,Win,Great Forest Bear,ELF_02,Bone Dragon,UND_02,24.0,0.0,160.0
+UND_02,Bone Dragon,ELF_03,Elven Mage,Win,Elven Mage,ELF_03,Bone Dragon,UND_02,13.2,0.0,32.0
+UND_02,Bone Dragon,ELF_04,Elven Scholar,Win,Bone Dragon,UND_02,Elven Scholar,ELF_04,12.8,558.0,0.0
+UND_02,Bone Dragon,HOR_01,Blade Goblin,Win,Bone Dragon,UND_02,Blade Goblin,HOR_01,16.0,243.04,0.0
+UND_02,Bone Dragon,HOR_02,Stone Ogre,Win,Stone Ogre,HOR_02,Bone Dragon,UND_02,25.6,0.0,224.0
+UND_02,Bone Dragon,HOR_03,Orc Thrower,Win,Orc Thrower,HOR_03,Bone Dragon,UND_02,13.2,0.0,32.0
+UND_02,Bone Dragon,HOR_04,Boneclub Troll,Win,Bone Dragon,UND_02,Boneclub Troll,HOR_04,12.8,558.0,0.0
+UND_03,Spear Devil,UND_04,Witch,Win,Spear Devil,UND_03,Witch,UND_04,7.2,310.0,0.0
+UND_03,Spear Devil,ELF_01,Elven Swordsman,Win,Elven Swordsman,ELF_01,Spear Devil,UND_03,8.0,0.0,158.0
+UND_03,Spear Devil,ELF_02,Great Forest Bear,Win,Great Forest Bear,ELF_02,Spear Devil,UND_03,14.4,0.0,16.0
+UND_03,Spear Devil,ELF_03,Elven Mage,Draw,,,,,8.4,0.0,0.0
+UND_03,Spear Devil,ELF_04,Elven Scholar,Win,Spear Devil,UND_03,Elven Scholar,ELF_04,7.2,310.0,0.0
+UND_03,Spear Devil,HOR_01,Blade Goblin,Win,Spear Devil,UND_03,Blade Goblin,HOR_01,8.4,201.52,0.0
+UND_03,Spear Devil,HOR_02,Stone Ogre,Win,Stone Ogre,HOR_02,Spear Devil,UND_03,14.4,0.0,176.0
+UND_03,Spear Devil,HOR_03,Orc Thrower,Draw,,,,,8.4,0.0,0.0
+UND_03,Spear Devil,HOR_04,Boneclub Troll,Win,Spear Devil,UND_03,Boneclub Troll,HOR_04,7.2,310.0,0.0
+UND_04,Witch,ELF_01,Elven Swordsman,Win,Elven Swordsman,ELF_01,Witch,UND_04,7.2,0.0,460.0
+UND_04,Witch,ELF_02,Great Forest Bear,Win,Great Forest Bear,ELF_02,Witch,UND_04,12.8,0.0,718.0
+UND_04,Witch,ELF_03,Elven Mage,Win,Elven Mage,ELF_03,Witch,UND_04,7.2,0.0,310.0
+UND_04,Witch,ELF_04,Elven Scholar,Draw,,,,,11.2,0.0,0.0
+UND_04,Witch,HOR_01,Blade Goblin,Win,Blade Goblin,HOR_01,Witch,UND_04,9.5,0.0,312.0
+UND_04,Witch,HOR_02,Stone Ogre,Win,Stone Ogre,HOR_02,Witch,UND_04,12.8,0.0,878.0
+UND_04,Witch,HOR_03,Orc Thrower,Win,Orc Thrower,HOR_03,Witch,UND_04,7.2,0.0,310.0
+UND_04,Witch,HOR_04,Boneclub Troll,Draw,,,,,11.2,0.0,0.0
+ELF_01,Elven Swordsman,ELF_02,Great Forest Bear,Draw,,,,,16.0,0.0,0.0
+ELF_01,Elven Swordsman,ELF_03,Elven Mage,Win,Elven Swordsman,ELF_01,Elven Mage,ELF_03,8.0,158.0,0.0
+ELF_01,Elven Swordsman,ELF_04,Elven Scholar,Win,Elven Swordsman,ELF_01,Elven Scholar,ELF_04,7.2,460.0,0.0
+ELF_01,Elven Swordsman,HOR_01,Blade Goblin,Win,Elven Swordsman,ELF_01,Blade Goblin,HOR_01,9.6,201.9,0.0
+ELF_01,Elven Swordsman,HOR_02,Stone Ogre,Draw,,,,,17.6,0.0,0.0
+ELF_01,Elven Swordsman,HOR_03,Orc Thrower,Win,Elven Swordsman,ELF_01,Orc Thrower,HOR_03,8.0,158.0,0.0
+ELF_01,Elven Swordsman,HOR_04,Boneclub Troll,Win,Elven Swordsman,ELF_01,Boneclub Troll,HOR_04,7.2,460.0,0.0
+ELF_02,Great Forest Bear,ELF_03,Elven Mage,Win,Great Forest Bear,ELF_02,Elven Mage,ELF_03,14.4,16.0,0.0
+ELF_02,Great Forest Bear,ELF_04,Elven Scholar,Win,Great Forest Bear,ELF_02,Elven Scholar,ELF_04,12.8,718.0,0.0
+ELF_02,Great Forest Bear,HOR_01,Blade Goblin,Win,Great Forest Bear,ELF_02,Blade Goblin,HOR_01,16.0,403.04,0.0
+ELF_02,Great Forest Bear,HOR_02,Stone Ogre,Win,Stone Ogre,HOR_02,Great Forest Bear,ELF_02,28.8,0.0,32.0
+ELF_02,Great Forest Bear,HOR_03,Orc Thrower,Win,Great Forest Bear,ELF_02,Orc Thrower,HOR_03,14.4,16.0,0.0
+ELF_02,Great Forest Bear,HOR_04,Boneclub Troll,Win,Great Forest Bear,ELF_02,Boneclub Troll,HOR_04,12.8,718.0,0.0
+ELF_03,Elven Mage,ELF_04,Elven Scholar,Win,Elven Mage,ELF_03,Elven Scholar,ELF_04,7.2,310.0,0.0
+ELF_03,Elven Mage,HOR_01,Blade Goblin,Win,Elven Mage,ELF_03,Blade Goblin,HOR_01,8.4,201.52,0.0
+ELF_03,Elven Mage,HOR_02,Stone Ogre,Win,Stone Ogre,HOR_02,Elven Mage,ELF_03,14.4,0.0,176.0
+ELF_03,Elven Mage,HOR_03,Orc Thrower,Draw,,,,,8.4,0.0,0.0
+ELF_03,Elven Mage,HOR_04,Boneclub Troll,Win,Elven Mage,ELF_03,Boneclub Troll,HOR_04,7.2,310.0,0.0
+ELF_04,Elven Scholar,HOR_01,Blade Goblin,Win,Blade Goblin,HOR_01,Elven Scholar,ELF_04,9.5,0.0,312.0
+ELF_04,Elven Scholar,HOR_02,Stone Ogre,Win,Stone Ogre,HOR_02,Elven Scholar,ELF_04,12.8,0.0,878.0
+ELF_04,Elven Scholar,HOR_03,Orc Thrower,Win,Orc Thrower,HOR_03,Elven Scholar,ELF_04,7.2,0.0,310.0
+ELF_04,Elven Scholar,HOR_04,Boneclub Troll,Draw,,,,,11.2,0.0,0.0
+HOR_01,Blade Goblin,HOR_02,Stone Ogre,Win,Stone Ogre,HOR_02,Blade Goblin,HOR_01,16.0,0.0,563.04
+HOR_01,Blade Goblin,HOR_03,Orc Thrower,Win,Orc Thrower,HOR_03,Blade Goblin,HOR_01,8.4,0.0,201.52
+HOR_01,Blade Goblin,HOR_04,Boneclub Troll,Win,Blade Goblin,HOR_01,Boneclub Troll,HOR_04,9.5,312.0,0.0
+HOR_02,Stone Ogre,HOR_03,Orc Thrower,Win,Stone Ogre,HOR_02,Orc Thrower,HOR_03,14.4,176.0,0.0
+HOR_02,Stone Ogre,HOR_04,Boneclub Troll,Win,Stone Ogre,HOR_02,Boneclub Troll,HOR_04,12.8,878.0,0.0
+HOR_03,Orc Thrower,HOR_04,Boneclub Troll,Win,Orc Thrower,HOR_03,Boneclub Troll,HOR_04,7.2,310.0,0.0

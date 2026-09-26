@@ -1,0 +1,59 @@
+Ability_ID,Unit_ID,Ability_Name,Ability_Type,Parameter,Value,Unit,Trigger,Target
+UND_01_A01,UND_01,Reassemble,Triggered,Restore_HP,35,%,On Death,Self
+UND_01_A01,UND_01,Reassemble,Triggered,Delay,4,sec,On Death,Self
+UND_01_A01,UND_01,Reassemble,Triggered,Max_Uses,1,count,On Death,Self
+UND_02_A01,UND_02,Death Feast,Triggered,Heal_Per_Death,3,% HP,Nearby Death,Self
+UND_02_A01,UND_02,Death Feast,Triggered,Trigger_Radius,5,tiles,Nearby Death,Self
+UND_02_A01,UND_02,Death Feast,Triggered,Max_Heal_Per_Second,6,% HP/s,Nearby Death,Self
+UND_03_A01,UND_03,Cursed Spear,Triggered,Damage_Reduction,15,%,Every 3 Hits,Single Enemy
+UND_03_A01,UND_03,Cursed Spear,Triggered,Hits_Required,3,hits,Every 3 Hits,Single Enemy
+UND_03_A01,UND_03,Cursed Spear,Triggered,Duration,5,sec,Every 3 Hits,Single Enemy
+UND_03_A01,UND_03,Cursed Spear,Triggered,Max_Stacks,1,count,Every 3 Hits,Single Enemy
+UND_03_A01,UND_03,Cursed Spear,Triggered,Refresh,1,boolean,Reapply,Single Enemy
+UND_04_A01,UND_04,Curse,Active,Attack_Speed_Reduction,20,%,Manual Activation,Single Enemy
+UND_04_A01,UND_04,Curse,Active,Duration,6,sec,Manual Activation,Single Enemy
+UND_04_A01,UND_04,Curse,Active,Cooldown,14,sec,Manual Activation,Single Enemy
+UND_04_A01,UND_04,Curse,Active,Max_Stacks,1,count,Manual Activation,Single Enemy
+UND_04_A01,UND_04,Curse,Active,Refresh,1,boolean,Reapply,Single Enemy
+ELF_01_A01,ELF_01,Evasive Step,Active,Dash_Distance,3,tiles,Manual Activation,Self
+ELF_01_A01,ELF_01,Evasive Step,Active,Dash_Duration,0.5,sec,Manual Activation,Self
+ELF_01_A01,ELF_01,Evasive Step,Active,Cooldown,10,sec,Manual Activation,Self
+ELF_01_A01,ELF_01,Evasive Step,Active,Invulnerability,0,boolean,During Dash,Self
+ELF_02_A01,ELF_02,Guardian Roar,Active,Taunt_Duration,2.5,sec,Manual Activation,Nearby Enemies
+ELF_02_A01,ELF_02,Guardian Roar,Active,Effect_Radius,3,tiles,Manual Activation,Nearby Enemies
+ELF_02_A01,ELF_02,Guardian Roar,Active,Cooldown,16,sec,Manual Activation,Nearby Enemies
+ELF_03_A01,ELF_03,Focused Bolt,Active,Charge_Time,2,sec,Manual Activation,Single Enemy
+ELF_03_A01,ELF_03,Focused Bolt,Active,Damage_Multiplier,2.5,multiplier,On Cast Complete,Single Enemy
+ELF_03_A01,ELF_03,Focused Bolt,Active,Cooldown,12,sec,On Cast Complete,Self
+ELF_03_A01,ELF_03,Focused Bolt,Active,Cancel_Cooldown,2,sec,On Cast Cancel,Self
+ELF_03_A01,ELF_03,Focused Bolt,Active,Movement_Allowed,0,boolean,During Charge,Self
+ELF_04_A01,ELF_04,Arcane Shield,Active,Shield_Amount,350,HP,Manual Activation,Single Ally
+ELF_04_A01,ELF_04,Arcane Shield,Active,Duration,6,sec,Manual Activation,Single Ally
+ELF_04_A01,ELF_04,Arcane Shield,Active,Cooldown,10,sec,Manual Activation,Single Ally
+ELF_04_A01,ELF_04,Arcane Shield,Active,Max_Stacks,1,count,Manual Activation,Single Ally
+ELF_04_A01,ELF_04,Arcane Shield,Active,Self_Cast,1,boolean,Manual Activation,Self
+HOR_01_A01,HOR_01,Blood Rush,Triggered,Attack_Speed_Bonus,30,%,First Melee Hit,Self
+HOR_01_A01,HOR_01,Blood Rush,Triggered,Duration,4,sec,First Melee Hit,Self
+HOR_01_A01,HOR_01,Blood Rush,Triggered,Cooldown,12,sec,On Activation,Self
+HOR_02_A01,HOR_02,Stone Skin,Active,Damage_Reduction,40,%,Manual Activation,Self
+HOR_02_A01,HOR_02,Stone Skin,Active,Duration,4,sec,Manual Activation,Self
+HOR_02_A01,HOR_02,Stone Skin,Active,Cooldown,16,sec,On Activation,Self
+HOR_02_A01,HOR_02,Stone Skin,Active,Movement_Allowed,0,boolean,During Effect,Self
+HOR_02_A01,HOR_02,Stone Skin,Active,Attack_Allowed,1,boolean,During Effect,Self
+HOR_03_A01,HOR_03,Knife Barrage,Active,Attack_Allowed,0,boolean,On Activation,Single Enemy
+HOR_03_A01,HOR_03,Knife Barrage,Active,Knife_Count,5,count,Manual Activation,Single Enemy
+HOR_03_A01,HOR_03,Knife Barrage,Active,Damage_Per_Knife,0.45,multiplier,On Knife Hit,Single Enemy
+HOR_03_A01,HOR_03,Knife Barrage,Active,Knife_Interval,0.2,sec,During Barrage,Single Enemy
+HOR_03_A01,HOR_03,Knife Barrage,Active,Cooldown,10,sec,On Activation,Self
+HOR_03_A01,HOR_03,Knife Barrage,Active,Movement_Allowed,0,boolean,During Barrage,Self
+HOR_04_A01,HOR_04,Bone Smash,Active,Damage_Multiplier,0.5,multiplier,Manual Activation,Single Enemy
+HOR_04_A01,HOR_04,Bone Smash,Active,Knockback_Distance,2,tiles,On Hit,Single Enemy
+HOR_04_A01,HOR_04,Bone Smash,Active,Stun_Duration,1.5,sec,After Knockback,Single Enemy
+HOR_04_A01,HOR_04,Bone Smash,Active,Cooldown,14,sec,On Activation,Self
+ELF_01_A01,ELF_01,Evasive Step,Active,Pass_Through_Enemies,0,boolean,During Dash,Self
+ELF_01_A01,ELF_01,Evasive Step,Active,Blocked_Path_Cooldown,10,sec,On Blocked Dash,Self
+ELF_02_A01,ELF_02,Guardian Roar,Active,Interrupts_Active_Abilities,0,boolean,On Taunt,Nearby Enemies
+ELF_02_A01,ELF_02,Guardian Roar,Active,Redirects_Future_Multihits,1,boolean,During Taunt,Nearby Enemies
+ELF_03_A01,ELF_03,Focused Bolt,Active,Attack_Allowed,0,boolean,During Charge,Self
+ELF_03_A01,ELF_03,Focused Bolt,Active,Projectile_Collision,1,boolean,On Projectile Travel,First Enemy Hit
+ELF_03_A01,ELF_03,Focused Bolt,Active,Pierces_Units,0,boolean,On Hit,First Enemy Hit

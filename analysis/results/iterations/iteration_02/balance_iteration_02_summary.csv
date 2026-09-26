@@ -1,0 +1,24 @@
+﻿Metric,Value
+Iteration,Iteration 02
+Direct_Target,HOR_02
+Parameter,Damage
+Damage_Before,91.2
+Damage_After,86.64
+HP,1760.0
+DPS_Before,57.0
+DPS_After,54.15
+Stone_Ogre_Combat_Score_Before,95.45
+Stone_Ogre_Combat_Score_After,90.91
+Stone_Ogre_Distance_From_50_Before,45.45
+Stone_Ogre_Distance_From_50_After,40.91
+Changed_Matchups,1
+Direct_Changed_Matchups,1
+Indirect_Changed_Matchups,0
+Improved_Units,1
+Worsened_Units,1
+Unchanged_Units,10
+Average_Distance_From_50_Before,27.27
+Average_Distance_From_50_After,27.27
+Average_Distance_Change,0.0
+Iteration_Result,Promising
+Recommendation,Keep Iteration 02 candidate for further validation.

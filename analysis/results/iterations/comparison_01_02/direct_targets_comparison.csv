@@ -1,0 +1,4 @@
+﻿Iteration,Unit_ID,Unit_Name,Parameter,Before,After,Iteration_Target
+Iteration 01,HOR_01,Blade Goblin,Damage,71.25,74.81,Buff Candidate
+Iteration 01,HOR_02,Stone Ogre,Damage,96.0,91.2,Nerf Candidate
+Iteration 02,HOR_02,Stone Ogre,Damage,91.2,86.64,Direct balance adjustment

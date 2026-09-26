@@ -1,0 +1,3 @@
+﻿Unit_ID,Unit_Name,Role,Iteration_Target,Changed_Parameter,Old_Value,New_Value,Parameter_Change_Percent,Before_Win_Rate,After_Win_Rate,Win_Rate_Delta,Before_Status,After_Status,Iteration_Effect
+HOR_01,Blade Goblin,Infantry,Buff Candidate,Damage,71.25,74.81,5.0,27.27,36.36,9.09,Low,Low,Closer to 50%
+HOR_02,Stone Ogre,Tank,Nerf Candidate,Damage,96.0,91.2,-5.0,100.0,95.45,-4.55,High,High,Closer to 50%

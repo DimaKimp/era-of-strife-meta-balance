@@ -1,0 +1,67 @@
+﻿Matchup_Unit_1,Matchup_Unit_1_Name,Matchup_Unit_2,Matchup_Unit_2_Name,Before_Result,After_Result,Result_Changed,Contains_Direct_Target,Impact_Type,Potential_Side_Effect,Investigation_Priority,Interpretation
+ELF_01,Elven Swordsman,ELF_02,Great Forest Bear,Draw,Draw,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_01,Elven Swordsman,ELF_03,Elven Mage,Elven Swordsman,Elven Swordsman,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_01,Elven Swordsman,ELF_04,Elven Scholar,Elven Swordsman,Elven Swordsman,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_01,Elven Swordsman,HOR_01,Blade Goblin,Elven Swordsman,Elven Swordsman,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+ELF_01,Elven Swordsman,HOR_02,Stone Ogre,Stone Ogre,Draw,Yes,Yes,Direct,No,Normal,Matchup changed and contains a directly modified unit. The change is consistent with a direct balance impact.
+ELF_01,Elven Swordsman,HOR_03,Orc Thrower,Elven Swordsman,Elven Swordsman,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_01,Elven Swordsman,HOR_04,Boneclub Troll,Elven Swordsman,Elven Swordsman,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_01,Skeleton Swordsman,ELF_01,Elven Swordsman,Elven Swordsman,Elven Swordsman,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_02,Bone Dragon,ELF_01,Elven Swordsman,Elven Swordsman,Elven Swordsman,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_03,Spear Devil,ELF_01,Elven Swordsman,Elven Swordsman,Elven Swordsman,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_04,Witch,ELF_01,Elven Swordsman,Elven Swordsman,Elven Swordsman,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_02,Great Forest Bear,ELF_03,Elven Mage,Great Forest Bear,Great Forest Bear,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_02,Great Forest Bear,ELF_04,Elven Scholar,Great Forest Bear,Great Forest Bear,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_02,Great Forest Bear,HOR_01,Blade Goblin,Great Forest Bear,Great Forest Bear,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+ELF_02,Great Forest Bear,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+ELF_02,Great Forest Bear,HOR_03,Orc Thrower,Great Forest Bear,Great Forest Bear,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_02,Great Forest Bear,HOR_04,Boneclub Troll,Great Forest Bear,Great Forest Bear,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_01,Skeleton Swordsman,ELF_02,Great Forest Bear,Great Forest Bear,Great Forest Bear,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_02,Bone Dragon,ELF_02,Great Forest Bear,Great Forest Bear,Great Forest Bear,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_03,Spear Devil,ELF_02,Great Forest Bear,Great Forest Bear,Great Forest Bear,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_04,Witch,ELF_02,Great Forest Bear,Great Forest Bear,Great Forest Bear,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_03,Elven Mage,ELF_04,Elven Scholar,Elven Mage,Elven Mage,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_03,Elven Mage,HOR_01,Blade Goblin,Elven Mage,Elven Mage,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+ELF_03,Elven Mage,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+ELF_03,Elven Mage,HOR_03,Orc Thrower,Draw,Draw,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_03,Elven Mage,HOR_04,Boneclub Troll,Elven Mage,Elven Mage,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_01,Skeleton Swordsman,ELF_03,Elven Mage,Elven Mage,Elven Mage,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_02,Bone Dragon,ELF_03,Elven Mage,Elven Mage,Elven Mage,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_03,Spear Devil,ELF_03,Elven Mage,Draw,Draw,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_04,Witch,ELF_03,Elven Mage,Elven Mage,Elven Mage,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_04,Elven Scholar,HOR_01,Blade Goblin,Blade Goblin,Blade Goblin,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+ELF_04,Elven Scholar,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+ELF_04,Elven Scholar,HOR_03,Orc Thrower,Orc Thrower,Orc Thrower,No,No,Unchanged,No,None,Matchup result remained unchanged.
+ELF_04,Elven Scholar,HOR_04,Boneclub Troll,Draw,Draw,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_01,Skeleton Swordsman,ELF_04,Elven Scholar,Skeleton Swordsman,Skeleton Swordsman,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_02,Bone Dragon,ELF_04,Elven Scholar,Bone Dragon,Bone Dragon,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_03,Spear Devil,ELF_04,Elven Scholar,Spear Devil,Spear Devil,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_04,Witch,ELF_04,Elven Scholar,Draw,Draw,No,No,Unchanged,No,None,Matchup result remained unchanged.
+HOR_01,Blade Goblin,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+HOR_01,Blade Goblin,HOR_03,Orc Thrower,Orc Thrower,Orc Thrower,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+HOR_01,Blade Goblin,HOR_04,Boneclub Troll,Blade Goblin,Blade Goblin,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+UND_01,Skeleton Swordsman,HOR_01,Blade Goblin,Skeleton Swordsman,Blade Goblin,Yes,Yes,Direct,No,Normal,Matchup changed and contains a directly modified unit. The change is consistent with a direct balance impact.
+UND_02,Bone Dragon,HOR_01,Blade Goblin,Bone Dragon,Bone Dragon,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+UND_03,Spear Devil,HOR_01,Blade Goblin,Spear Devil,Spear Devil,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+UND_04,Witch,HOR_01,Blade Goblin,Blade Goblin,Blade Goblin,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+HOR_02,Stone Ogre,HOR_03,Orc Thrower,Stone Ogre,Stone Ogre,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+HOR_02,Stone Ogre,HOR_04,Boneclub Troll,Stone Ogre,Stone Ogre,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+UND_01,Skeleton Swordsman,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+UND_02,Bone Dragon,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+UND_03,Spear Devil,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+UND_04,Witch,HOR_02,Stone Ogre,Stone Ogre,Stone Ogre,No,Yes,Unchanged,No,None,Matchup result remained unchanged.
+HOR_03,Orc Thrower,HOR_04,Boneclub Troll,Orc Thrower,Orc Thrower,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_01,Skeleton Swordsman,HOR_03,Orc Thrower,Orc Thrower,Orc Thrower,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_02,Bone Dragon,HOR_03,Orc Thrower,Orc Thrower,Orc Thrower,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_03,Spear Devil,HOR_03,Orc Thrower,Draw,Draw,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_04,Witch,HOR_03,Orc Thrower,Orc Thrower,Orc Thrower,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_01,Skeleton Swordsman,HOR_04,Boneclub Troll,Skeleton Swordsman,Skeleton Swordsman,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_02,Bone Dragon,HOR_04,Boneclub Troll,Bone Dragon,Bone Dragon,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_03,Spear Devil,HOR_04,Boneclub Troll,Spear Devil,Spear Devil,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_04,Witch,HOR_04,Boneclub Troll,Draw,Draw,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_01,Skeleton Swordsman,UND_02,Bone Dragon,Bone Dragon,Bone Dragon,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_01,Skeleton Swordsman,UND_03,Spear Devil,Spear Devil,Spear Devil,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_01,Skeleton Swordsman,UND_04,Witch,Skeleton Swordsman,Skeleton Swordsman,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_02,Bone Dragon,UND_03,Spear Devil,Spear Devil,Spear Devil,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_02,Bone Dragon,UND_04,Witch,Bone Dragon,Bone Dragon,No,No,Unchanged,No,None,Matchup result remained unchanged.
+UND_03,Spear Devil,UND_04,Witch,Spear Devil,Spear Devil,No,No,Unchanged,No,None,Matchup result remained unchanged.

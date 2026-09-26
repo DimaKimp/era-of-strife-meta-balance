@@ -1,0 +1,27 @@
+﻿Metric,Value
+Iteration,Iteration 01
+Direct_Target_Units,2
+Direct_Target_IDs,HOR_01; HOR_02
+Direct_Parameter_Changes,2
+Total_Units_Analyzed,12
+Improved_Units,2
+Worsened_Units,2
+Unchanged_Units,8
+Direct_Improved,2
+Direct_Worsened,0
+Direct_Unchanged,0
+Total_Matchups_Analyzed,66
+Changed_Matchups,2
+Unchanged_Matchups,64
+Direct_Changed_Matchups,2
+Indirect_Changed_Matchups,0
+Potential_Side_Effects,0
+Side_Effect_Risk,Low
+Average_Distance_From_50_Before,27.27
+Average_Distance_From_50_After,27.27
+Average_Distance_Change,0.0
+Reproducibility_Status,Reproducible
+Reproducibility_OK,Yes
+Matchup_Classification_Consistent,Yes
+Iteration_Effectiveness,Successful
+Iteration_02_Readiness,Ready for Next Balance Decision

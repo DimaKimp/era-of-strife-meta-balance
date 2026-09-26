@@ -1,0 +1,13 @@
+﻿Unit_ID,Unit_Name,Canonical_Combat_Score,Run_1_Combat_Score,Run_2_Combat_Score,Run_3_Combat_Score,Run_4_Combat_Score,Run_5_Combat_Score,Stable_Across_Runs,Matches_Canonical_BEFORE
+ELF_01,Elven Swordsman,86.36,86.36,86.36,86.36,86.36,86.36,Yes,Yes
+ELF_02,Great Forest Bear,86.36,86.36,86.36,86.36,86.36,86.36,Yes,Yes
+ELF_03,Elven Mage,63.64,63.64,63.64,63.64,63.64,63.64,Yes,Yes
+ELF_04,Elven Scholar,9.09,9.09,9.09,9.09,9.09,9.09,Yes,Yes
+HOR_01,Blade Goblin,27.27,27.27,27.27,27.27,27.27,27.27,Yes,Yes
+HOR_02,Stone Ogre,100.0,100.0,100.0,100.0,100.0,100.0,Yes,Yes
+HOR_03,Orc Thrower,63.64,63.64,63.64,63.64,63.64,63.64,Yes,Yes
+HOR_04,Boneclub Troll,9.09,9.09,9.09,9.09,9.09,9.09,Yes,Yes
+UND_01,Skeleton Swordsman,36.36,36.36,36.36,36.36,36.36,36.36,Yes,Yes
+UND_02,Bone Dragon,45.45,45.45,45.45,45.45,45.45,45.45,Yes,Yes
+UND_03,Spear Devil,63.64,63.64,63.64,63.64,63.64,63.64,Yes,Yes
+UND_04,Witch,9.09,9.09,9.09,9.09,9.09,9.09,Yes,Yes

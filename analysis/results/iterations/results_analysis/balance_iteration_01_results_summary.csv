@@ -1,0 +1,23 @@
+﻿Metric,Value
+Iteration,Iteration 01
+Target_Win_Rate,50.0
+Total_Units,12
+Total_Matchups,66
+Improved_Units,2
+Worsened_Units,2
+Unchanged_Units,8
+Direct_Targets,2
+Direct_Improved,2
+Direct_Worsened,0
+Direct_Unchanged,0
+Average_Distance_From_50_Before,27.27
+Average_Distance_From_50_After,27.27
+Average_Distance_Change,0.0
+Changed_Matchups,2
+Direct_Changed_Matchups,2
+Indirect_Changed_Matchups,0
+Unchanged_Matchups,64
+Potential_Side_Effects,0
+Control_ELF_01_vs_ELF_02_Before,Draw
+Control_ELF_01_vs_ELF_02_After,Draw
+Overall_Iteration_Result,Successful

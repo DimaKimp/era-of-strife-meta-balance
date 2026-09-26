@@ -1,0 +1,13 @@
+﻿Unit_ID,Unit_Name,Faction,Role,Is_Direct_Target,Before_Battles,After_Battles,Before_Wins,After_Wins,Before_Losses,After_Losses,Before_Draws,After_Draws,Before_Win_Rate,After_Win_Rate,Win_Rate_Change,Before_Combat_Score,After_Combat_Score,Combat_Score_Change,Distance_From_50_Before,Distance_From_50_After,Distance_Change,Balance_Result
+ELF_01,Elven Swordsman,Forest & Dark Elves,Infantry,No,11,11,9,9,1,0,1,2,81.82,81.82,0.0,86.36,90.91,4.55,36.36,40.91,4.55,Worsened
+ELF_02,Great Forest Bear,Forest & Dark Elves,Tank,No,11,11,9,9,1,1,1,1,81.82,81.82,0.0,86.36,86.36,0.0,36.36,36.36,0.0,Unchanged
+ELF_03,Elven Mage,Forest & Dark Elves,Ranged,No,11,11,6,6,3,3,2,2,54.55,54.55,0.0,63.64,63.64,0.0,13.64,13.64,0.0,Unchanged
+ELF_04,Elven Scholar,Forest & Dark Elves,Support,No,11,11,0,0,9,9,2,2,0.0,0.0,0.0,9.09,9.09,0.0,40.91,40.91,0.0,Unchanged
+HOR_01,Blade Goblin,Horde,Infantry,Yes,11,11,3,4,8,7,0,0,27.27,36.36,9.09,27.27,36.36,9.09,22.73,13.64,-9.09,Improved
+HOR_02,Stone Ogre,Horde,Tank,Yes,11,11,11,10,0,0,0,1,100.0,90.91,-9.09,100.0,95.45,-4.55,50.0,45.45,-4.55,Improved
+HOR_03,Orc Thrower,Horde,Ranged,No,11,11,6,6,3,3,2,2,54.55,54.55,0.0,63.64,63.64,0.0,13.64,13.64,0.0,Unchanged
+HOR_04,Boneclub Troll,Horde,Support,No,11,11,0,0,9,9,2,2,0.0,0.0,0.0,9.09,9.09,0.0,40.91,40.91,0.0,Unchanged
+UND_01,Skeleton Swordsman,Undead,Infantry,No,11,11,4,3,7,8,0,0,36.36,27.27,-9.09,36.36,27.27,-9.09,13.64,22.73,9.09,Worsened
+UND_02,Bone Dragon,Undead,Tank,No,11,11,5,5,6,6,0,0,45.45,45.45,0.0,45.45,45.45,0.0,4.55,4.55,0.0,Unchanged
+UND_03,Spear Devil,Undead,Ranged,No,11,11,6,6,3,3,2,2,54.55,54.55,0.0,63.64,63.64,0.0,13.64,13.64,0.0,Unchanged
+UND_04,Witch,Undead,Support,No,11,11,0,0,9,9,2,2,0.0,0.0,0.0,9.09,9.09,0.0,40.91,40.91,0.0,Unchanged

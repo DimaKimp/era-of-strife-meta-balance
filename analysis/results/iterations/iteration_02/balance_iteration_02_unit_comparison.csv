@@ -1,0 +1,13 @@
+﻿Unit_ID,Unit_Name,Role,Is_Direct_Target,Wins_Before,Wins_After,Losses_Before,Losses_After,Draws_Before,Draws_After,Win_Rate_Before,Win_Rate_After,Win_Rate_Delta,Combat_Score_Before,Combat_Score_After,Combat_Score_Delta,Distance_From_50_Before,Distance_From_50_After,Distance_Change,Balance_Result
+UND_01,Skeleton Swordsman,Infantry,No,3,3,8,8,0,0,27.27,27.27,0.0,27.27,27.27,0.0,22.73,22.73,0.0,Unchanged
+UND_02,Bone Dragon,Tank,No,5,5,6,6,0,0,45.45,45.45,0.0,45.45,45.45,0.0,4.55,4.55,0.0,Unchanged
+UND_03,Spear Devil,Ranged,No,6,6,3,3,2,2,54.55,54.55,0.0,63.64,63.64,0.0,13.64,13.64,0.0,Unchanged
+UND_04,Witch,Support,No,0,0,9,9,2,2,0.0,0.0,0.0,9.09,9.09,0.0,40.91,40.91,0.0,Unchanged
+ELF_01,Elven Swordsman,Infantry,No,9,9,0,0,2,2,81.82,81.82,0.0,90.91,90.91,0.0,40.91,40.91,0.0,Unchanged
+ELF_02,Great Forest Bear,Tank,No,9,9,1,0,1,2,81.82,81.82,0.0,86.36,90.91,4.55,36.36,40.91,4.55,Worsened
+ELF_03,Elven Mage,Ranged,No,6,6,3,3,2,2,54.55,54.55,0.0,63.64,63.64,0.0,13.64,13.64,0.0,Unchanged
+ELF_04,Elven Scholar,Support,No,0,0,9,9,2,2,0.0,0.0,0.0,9.09,9.09,0.0,40.91,40.91,0.0,Unchanged
+HOR_01,Blade Goblin,Infantry,No,4,4,7,7,0,0,36.36,36.36,0.0,36.36,36.36,0.0,13.64,13.64,0.0,Unchanged
+HOR_02,Stone Ogre,Tank,Yes,10,9,0,0,1,2,90.91,81.82,-9.09,95.45,90.91,-4.54,45.45,40.91,-4.54,Improved
+HOR_03,Orc Thrower,Ranged,No,6,6,3,3,2,2,54.55,54.55,0.0,63.64,63.64,0.0,13.64,13.64,0.0,Unchanged
+HOR_04,Boneclub Troll,Support,No,0,0,9,9,2,2,0.0,0.0,0.0,9.09,9.09,0.0,40.91,40.91,0.0,Unchanged

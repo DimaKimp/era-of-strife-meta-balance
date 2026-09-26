@@ -1,0 +1,82 @@
+﻿Category,Check,Expected,Actual,Status,Severity
+Files,Exists: data\unit_balance.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\balance_iteration_01.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\combat_simulation\balance_iteration_01_combat_results.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\combat_simulation\balance_iteration_01_matchup_statistics.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\combat_simulation\balance_iteration_01_unit_statistics.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\results_analysis\balance_iteration_01_unit_results_analysis.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\results_analysis\balance_iteration_01_matchup_results_analysis.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\results_analysis\balance_iteration_01_results_summary.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\reproducibility\balance_iteration_01_reproducibility_summary.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\impact_analysis\balance_iteration_01_direct_changes.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\impact_analysis\balance_iteration_01_unit_impact.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\impact_analysis\balance_iteration_01_matchup_impact.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\impact_analysis\balance_iteration_01_side_effects.csv,Exists,Exists,PASS,Critical
+Files,Exists: analysis\results\iterations\impact_analysis\balance_iteration_01_impact_summary.csv,Exists,Exists,PASS,Critical
+Dataset,Combat unit count,12,12,PASS,Critical
+Dataset,Combat matchup count,66,66,PASS,Critical
+Dataset,Results unit count,12,12,PASS,Critical
+Dataset,Results matchup count,66,66,PASS,Critical
+Dataset,Impact unit count,12,12,PASS,Critical
+Dataset,Impact matchup count,66,66,PASS,Critical
+Iteration Plan,Direct target count,2,2,PASS,Critical
+Iteration Plan,Direct target IDs,HOR_01; HOR_02,HOR_01; HOR_02,PASS,Critical
+Results Analysis,Total units,12,12,PASS,Critical
+Results Analysis,Unit partition,12,12,PASS,Critical
+Results Analysis,Total matchups,66,66,PASS,Critical
+Results Analysis,Matchup partition,66,66,PASS,Critical
+Results Analysis,Changed matchup partition,2,2,PASS,Critical
+Results Analysis,Direct targets,2,2,PASS,Critical
+Results Analysis,Direct improved,2,2,PASS,Critical
+Results Analysis,Direct worsened,0,0,PASS,Critical
+Results Analysis,Changed matchups,2,2,PASS,Critical
+Results Analysis,Direct changed matchups,2,2,PASS,Critical
+Results Analysis,Indirect changed matchups,0,0,PASS,Critical
+Results Analysis,Potential side effects,0,0,PASS,Critical
+Reproducibility,Runs,5,5,PASS,Critical
+Reproducibility,Units per run,12,12,PASS,Critical
+Reproducibility,Matchups per run,66,66,PASS,Critical
+Reproducibility,Logical outputs identical,Yes,Yes,PASS,Critical
+Reproducibility,Unique run signatures,1,1,PASS,Critical
+Reproducibility,Unstable matchups,0,0,PASS,Critical
+Reproducibility,Unstable units,0,0,PASS,Critical
+Reproducibility,Canonical matchup mismatches,0,0,PASS,Critical
+Reproducibility,Canonical unit mismatches,0,0,PASS,Critical
+Reproducibility,Source file unchanged,Yes,Yes,PASS,Critical
+Reproducibility,Reproducibility status,Reproducible,Reproducible,PASS,Critical
+Impact Analysis,Direct target units,2,2,PASS,Critical
+Impact Analysis,Direct parameter changes,2,2,PASS,Critical
+Impact Analysis,Total units,12,12,PASS,Critical
+Impact Analysis,Unit partition,12,12,PASS,Critical
+Impact Analysis,Direct improved,2,2,PASS,Critical
+Impact Analysis,Direct worsened,0,0,PASS,Critical
+Impact Analysis,Total matchups,66,66,PASS,Critical
+Impact Analysis,Matchup partition,66,66,PASS,Critical
+Impact Analysis,Changed matchups,2,2,PASS,Critical
+Impact Analysis,Direct changed matchups,2,2,PASS,Critical
+Impact Analysis,Indirect changed matchups,0,0,PASS,Critical
+Impact Analysis,Potential side effects,0,0,PASS,Critical
+Impact Analysis,Reproducibility OK,Yes,Yes,PASS,Critical
+Impact Analysis,Classification consistent,Yes,Yes,PASS,Critical
+Impact Analysis,Iteration effectiveness,Successful,Successful,PASS,Critical
+Impact Analysis,Iteration 02 readiness,Ready for Next Balance Decision,Ready for Next Balance Decision,PASS,Critical
+Cross Stage,Direct targets: 13 vs 15,2,2,PASS,Critical
+Cross Stage,Improved units: 13 vs 15,2,2,PASS,Critical
+Cross Stage,Worsened units: 13 vs 15,2,2,PASS,Critical
+Cross Stage,Unchanged units: 13 vs 15,8,8,PASS,Critical
+Cross Stage,Direct improved: 13 vs 15,2,2,PASS,Critical
+Cross Stage,Direct worsened: 13 vs 15,0,0,PASS,Critical
+Cross Stage,Changed matchups: 13 vs 15,2,2,PASS,Critical
+Cross Stage,Direct changed: 13 vs 15,2,2,PASS,Critical
+Cross Stage,Indirect changed: 13 vs 15,0,0,PASS,Critical
+Cross Stage,Side effects: 13 vs 15,0,0,PASS,Critical
+Cross Stage,09 direct targets vs 15 direct targets,HOR_01; HOR_02,HOR_01; HOR_02,PASS,Critical
+Actual Rows,Changed matchup rows,2,2,PASS,Critical
+Actual Rows,Direct changed matchup rows,2,2,PASS,Critical
+Actual Rows,Indirect changed matchup rows,0,0,PASS,Critical
+Actual Rows,Side-effect rows,0,0,PASS,Critical
+Actual Rows,Side-effect CSV row count,0,0,PASS,Critical
+Cross Stage,Average distance BEFORE: 13 vs 15,27.27,27.27,PASS,Critical
+Cross Stage,Average distance AFTER: 13 vs 15,27.27,27.27,PASS,Critical
+Cross Stage,Average distance change: 13 vs 15,0.0,0.0,PASS,Critical
+Integrity,unit_balance.csv unchanged during validator,83a937076d861ffe9f5721e9eac6c2a3cd4a08d120d569b8c041cf4722098499,83a937076d861ffe9f5721e9eac6c2a3cd4a08d120d569b8c041cf4722098499,PASS,Critical

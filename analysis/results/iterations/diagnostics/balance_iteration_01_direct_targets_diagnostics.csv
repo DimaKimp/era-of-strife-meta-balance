@@ -1,0 +1,3 @@
+﻿Unit_ID,Unit_Name,Iteration_Target,Change_Type,Changed_Parameter,Old_Value,New_Value,Parameter_Changed,Parameter_Change_Percent,Target_Label_Matched,Expected_Direct_Target,Detected_As_Direct
+HOR_01,Blade Goblin,Buff Candidate,Buff Candidate,Damage,71.25,74.81,Yes,4.9965,Yes,Yes,Yes
+HOR_02,Stone Ogre,Nerf Candidate,Nerf Candidate,Damage,96.0,91.2,Yes,-5.0,Yes,Yes,Yes

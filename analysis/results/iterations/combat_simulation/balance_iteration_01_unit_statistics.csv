@@ -1,0 +1,13 @@
+﻿Unit_ID,Unit_Name,Faction,Role,Battles,Wins,Losses,Draws,Win_Rate,Draw_Rate,Combat_Score
+UND_01,Skeleton Swordsman,Undead,Infantry,11,3,8,0,27.27,0.0,27.27
+UND_02,Bone Dragon,Undead,Tank,11,5,6,0,45.45,0.0,45.45
+UND_03,Spear Devil,Undead,Ranged,11,6,3,2,54.55,18.18,63.64
+UND_04,Witch,Undead,Support,11,0,9,2,0.0,18.18,9.09
+ELF_01,Elven Swordsman,Forest & Dark Elves,Infantry,11,9,0,2,81.82,18.18,90.91
+ELF_02,Great Forest Bear,Forest & Dark Elves,Tank,11,9,1,1,81.82,9.09,86.36
+ELF_03,Elven Mage,Forest & Dark Elves,Ranged,11,6,3,2,54.55,18.18,63.64
+ELF_04,Elven Scholar,Forest & Dark Elves,Support,11,0,9,2,0.0,18.18,9.09
+HOR_01,Blade Goblin,Horde,Infantry,11,4,7,0,36.36,0.0,36.36
+HOR_02,Stone Ogre,Horde,Tank,11,10,0,1,90.91,9.09,95.45
+HOR_03,Orc Thrower,Horde,Ranged,11,6,3,2,54.55,18.18,63.64
+HOR_04,Boneclub Troll,Horde,Support,11,0,9,2,0.0,18.18,9.09

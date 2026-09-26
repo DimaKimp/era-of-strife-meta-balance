@@ -1,0 +1,17 @@
+﻿Metric,Value
+Project,Era of Strife
+Analysis_Type,RTS unit balance iteration analysis
+Units_Analyzed,12
+Unique_Pairwise_Matchups,66
+Iteration_01_Targets,HOR_01; HOR_02
+Iteration_01_Changed_Matchups,2
+Iteration_01_Average_Distance_Change,0.0
+Iteration_02_Target,HOR_02
+Iteration_02_Parameter,Damage
+Iteration_02_Damage_Before,91.2
+Iteration_02_Damage_After,86.64
+Iteration_02_Changed_Matchups,1
+Iteration_02_Direct_Changed_Matchups,1
+Iteration_02_Indirect_Changed_Matchups,0
+Iteration_02_Result,Promising
+Source_Data_Modified,No

@@ -1,0 +1,17 @@
+﻿Metric,Value
+Tested_Unit_ID,HOR_02
+Tested_Unit_Name,Stone Ogre
+Opponent_ID,ELF_01
+Opponent_Name,Elven Swordsman
+Minimum_Tested_HP,1600
+Maximum_Tested_HP,1760
+Tested_HP_Count,8
+Unique_Results,Loss; Draw
+Transition_Count,1
+Lowest_Tested_HP_With_Draw,1700
+Highest_Tested_HP_With_Draw,1760
+Highest_Tested_HP_With_Loss,1675
+Transition_1,1675 HP Loss -> 1700 HP Draw
+Transition_1_Interval,1675-1700
+Transition_1_Exact_Threshold_Known,No
+Interpretation,One Stone Ogre HP breakpoint interval was detected against Elven Swordsman.
