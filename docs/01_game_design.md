@@ -536,7 +536,7 @@ Elven Scholar не должен конкурировать с Ranged-юнита�
 
 Параметры:
 
-- `Shield Amount`: **TBD HP**;
+- `Shield Amount`: **350 HP**;
 - `Duration`: **6 sec**;
 - `Cooldown`: **10 sec**;
 - `Max Stacks`: **1**;
